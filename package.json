@@ -1,5 +1,5 @@
 {
-  "name": "create",
+  "name": "createPora",
   "version": "1.0.0",
   "description": "A simple script that utilizes the Stared library to manage starred items.",
   "main": "./src/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bonsernTow088/create.git"
+    "url": "https://github.com/bonsernTow088/createPora.git"
   },
   "keywords": [
     "create",
@@ -19,9 +19,9 @@
   "author": "bonsernTow088",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bonsernTow088/create/issues"
+    "url": "https://github.com/bonsernTow088/createPora/issues"
   },
-  "homepage": "https://github.com/bonsernTow088/create",
+  "homepage": "https://github.com/bonsernTow088/createPora",
   "dependencies": {
     "stared": "^1.0.0"
   }
